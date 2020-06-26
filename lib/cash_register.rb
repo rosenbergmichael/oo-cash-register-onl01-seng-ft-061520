@@ -20,7 +20,7 @@ class CashRegister
   
   def apply_discount
     
-    if 
+    if discount != 0  
     
     else 
     "There is no discount to apply."
