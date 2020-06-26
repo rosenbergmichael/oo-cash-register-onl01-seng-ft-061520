@@ -24,6 +24,7 @@ class CashRegister
       
     else 
       "There is no discount to apply."
+    end 
   end 
   
   
